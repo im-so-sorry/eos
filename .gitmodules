@@ -1,0 +1,12 @@
+[submodule "streaming-vk"]
+	path = streaming-vk
+	url = ../streaming-vk
+[submodule "barad-dur"]
+	path = barad-dur
+	url = ../barad-dur
+[submodule "vk_bot"]
+	path = vk_bot
+	url = ../vk_bot
+[submodule "pyservice-vk"]
+	path = pyservice-vk
+	url = ../pyservice-vk
